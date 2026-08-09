@@ -4,6 +4,22 @@ An enterprise-grade Security Operations, Automation, and Response (**SOAR**) fra
 
 ---
 
+## 🔗 Quick Links & Source Code
+
+* **🖥️ Engine Script:** [`soar_engine.py`](./soar_engine.py)
+* **📊 Visual Dashboard:** [`dashboard.py`](./dashboard.py)
+* **⚙️ Security Rules (.gitignore):** [`.gitignore`](./.gitignore)
+
+---
+
+## 🖼️ Live Visual Demo
+
+> **SOC Dashboard Visual Telemetry:**
+> 
+> *(Drag & drop your dashboard screenshot image here directly in GitHub editor)*
+
+---
+
 ## 🏛️ System Architecture Workflow
 
 ```text
