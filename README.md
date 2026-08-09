@@ -17,8 +17,6 @@ An enterprise-grade Security Operations, Automation, and Response (**SOAR**) fra
 > **SOC Dashboard Visual Telemetry:**
 > 
 <img width="1908" height="907" alt="Screenshot 2026-08-09 161313" src="https://github.com/user-attachments/assets/a4241b7d-2990-4bc5-8397-4ac7dff820bd" />
-*<img width="1902" height="901" alt="Screenshot 2026-08-09 161320" src="https://github.com/user-attachments/assets/adf1b3b3-50d4-48b3-818e-d25bff41ffbf" />
-
 
 ---
 
