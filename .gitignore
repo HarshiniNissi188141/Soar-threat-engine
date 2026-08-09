@@ -1,0 +1,21 @@
+# Secrets and Environment Variables (SUPER IMPORTANT)
+.env
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Database & Output Logs
+logs/
+denylist.txt
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
